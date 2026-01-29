@@ -75,7 +75,6 @@ public class OOPsBanner {
      */
     public static void main(String[] args) {
 
-        // Initialize character-pattern mappings
         CharacterPatternMap[] patternMaps = {
 
                 new CharacterPatternMap('O', new String[]{
@@ -110,8 +109,6 @@ public class OOPsBanner {
         };
 
         String word = "OOPS";
-
-        // Build and print the banner line by line
         for (int row = 0; row < 7; row++) {
             StringBuilder line = new StringBuilder();
 
