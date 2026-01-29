@@ -1,7 +1,7 @@
 package com.bridgelabz;
 
 /**
- *
+ * OOPSBannerApp UC-3 : Using Strong.join() method to display OOPS banner
  *
  * @Author Sumukha
  * @Version 3.0
