@@ -53,6 +53,5 @@ public class OOPsBanner {
             System.out.println(oPattern[i]+" "+oPattern[i]+" "+pPattern[i]+" "+sPattern[i]);
         }
     }
-
 }
 
